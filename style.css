@@ -54,3 +54,30 @@ ul{
 }
 
 /*tabella*/
+
+thead{
+    background-color:blue;
+    color: white ;
+}
+
+.corta{
+    width: 200px;
+    text-align: left;
+    border: solid;
+    border: 10px;
+    border-color:blue ;
+}
+
+.diversa{
+    background-color: lightgrey;
+}
+
+.ultima{
+    background-color: lightblue;
+}
+
+td{
+    margin: 0px;
+
+}
+
