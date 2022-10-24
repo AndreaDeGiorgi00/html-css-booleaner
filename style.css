@@ -35,7 +35,7 @@ a{
 
 #contenitore{
     width: auto;
-    margin:0 120px;
+    margin:0 180px;
    
 }
 
@@ -79,5 +79,27 @@ thead{
 td{
     margin: 0px;
 
+}
+.bordi{
+    background-color: lightblue;
+}
+
+/*finale*/
+
+.piede.dx{
+    background-image: url(images/monitor.jpg);
+    width: 300px ;
+    height: 200px;
+}
+
+.piede.sx{
+    background-image: url(images/graph.jpg);
+    width: 300px;
+    height: 200px;
+
+}
+
+.descrizione{
+    color: white;
 }
 
