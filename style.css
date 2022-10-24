@@ -27,8 +27,30 @@ a{
     text-decoration: none;
 }
 
+.sottotitoli{
+    width: 100%;
+    color: grey;
+
+}
+
 #contenitore{
     width: auto;
     margin:0 120px;
    
 }
+
+.spazio{
+    height: 30px;
+}
+
+/* fase pre tabella*/
+.evidenziatore{
+    background-color:yellow;
+
+}
+
+ul{
+    margin:auto -25px;
+}
+
+/*tabella*/
