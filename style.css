@@ -51,12 +51,14 @@ a{
 
 ul{
     padding-inline-start: 17px;
-
+}
 /*tabella*/
 
 table{
-    border-collapse: collapse;
+    border-collapse:collapse;
 }
+
+
 
 thead{
     background-color:blue;
@@ -66,9 +68,7 @@ thead{
 .corta{
     width: 200px;
     text-align: left;
-    border: solid;
-    border: 10px;
-    border-color:blue ;
+    
 }
 
 .diversa{
