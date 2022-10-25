@@ -50,10 +50,13 @@ a{
 }
 
 ul{
-    margin:auto -25px;
-}
+    padding-inline-start: 17px;
 
 /*tabella*/
+
+table{
+    border-collapse: collapse;
+}
 
 thead{
     background-color:blue;
